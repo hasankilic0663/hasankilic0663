@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan Hüseyin Kılıç</h1>
 <h3 align="center">A passionate IOS Developer from Turkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasankilic0663=Profile%20views&color=0e75b6&style=flat" alt="cylinderheadgasket" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=hasankilic0663)
 
 
 - 🔭 I’m currently working on **SwiftUI**
