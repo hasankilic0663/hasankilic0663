@@ -6,7 +6,8 @@
 
 
 - 🔭 I’m currently working on **SwiftUI**
-
+- 🌱 I’m currently learning **UIKit**
+- 👯 I’m looking to collaborate on **iOS Development**
 - 📫 How to reach me **hasankilic0663@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
